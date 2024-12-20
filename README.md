@@ -18,8 +18,11 @@
 </div>
 
 Hello everyone!
+<br>
 I'm Giovanni, and i'm Developer / Designer / Computer Engineer.
+<br>
 I'm open to new projects, contact me without problems and we will talk about your case.
+<br>
 
 
 <!--- stats & Trophy (start) -->
