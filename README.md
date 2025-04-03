@@ -35,6 +35,7 @@ I'm open to new projects, contact me without problems and we will talk about you
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=NightMare070&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NightMare070&theme=transparent&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=NightMare070&theme=transparent&locale=es&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </td>
 
 <td width="50%" align="center">
